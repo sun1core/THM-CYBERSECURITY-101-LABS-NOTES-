@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B. Linux Fundamentals/3. Linux Fundamentals Part 3.md",
+                "file": "D. Command Line/1. Windows Command Line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Linux Fundamentals Part 3"
+              "title": "1. Windows Command Line"
             }
           }
         ]
@@ -218,8 +218,12 @@
   },
   "active": "df0dd06d2571314b",
   "lastOpenFiles": [
-    "B. Linux Fundamentals/2. Linux Fundamentals Part 2.md",
+    "C. Windows and Active Directory Fundamentals/1. Active Directory Basics.md",
+    "D. Command Line/1. Windows Command Line.md",
+    "D. Command Line",
     "B. Linux Fundamentals/3. Linux Fundamentals Part 3.md",
+    "C. Windows and Active Directory Fundamentals",
+    "B. Linux Fundamentals/2. Linux Fundamentals Part 2.md",
     "B. Linux Fundamentals/1. Linux Fundamentals Part 1.md",
     "A. Cyber Security Journey/1. Search Skills.md",
     "B. Linux Fundamentals",
