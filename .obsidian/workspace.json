@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D. Command Line/1. Windows Command Line.md",
+                "file": "D. Command Line/2. Windows Powershell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Windows Command Line"
+              "title": "2. Windows Powershell"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5b89ab68b964e27c",
@@ -217,8 +218,8 @@
   },
   "active": "df0dd06d2571314b",
   "lastOpenFiles": [
-    "D. Command Line/2. Windows Powershell.md",
     "D. Command Line/1. Windows Command Line.md",
+    "D. Command Line/2. Windows Powershell.md",
     "C. Windows and Active Directory Fundamentals/1. Active Directory Basics.md",
     "D. Command Line",
     "B. Linux Fundamentals/3. Linux Fundamentals Part 3.md",
