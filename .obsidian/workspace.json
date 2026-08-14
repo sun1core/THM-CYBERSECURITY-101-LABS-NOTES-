@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E. Networking/2. Networking Essentials.md",
+                "file": "E. Networking/3. Networking Core Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Networking Essentials"
+              "title": "3. Networking Core Protocols"
             }
           }
         ]
@@ -218,9 +218,10 @@
   },
   "active": "df0dd06d2571314b",
   "lastOpenFiles": [
+    "E. Networking/2. Networking Essentials.md",
+    "E. Networking/3. Networking Core Protocols.md",
     "Untitled.base",
     "E. Networking/1. Networking Concepts.md",
-    "E. Networking/2. Networking Essentials.md",
     "B. Linux Fundamentals/3. Linux Fundamentals Part 3.md",
     "E. Networking",
     "B. Linux Fundamentals/2. Linux Fundamentals Part 2.md",
