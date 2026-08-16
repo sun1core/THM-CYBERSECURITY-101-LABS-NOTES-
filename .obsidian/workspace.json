@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E. Networking/4. Networking Secure Protocols.md",
+                "file": "E. Networking/7. NMAP The Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Networking Secure Protocols"
+              "title": "7. NMAP The Basics"
             }
           }
         ]
@@ -218,8 +218,9 @@
   },
   "active": "df0dd06d2571314b",
   "lastOpenFiles": [
-    "E. Networking/3. Networking Core Protocols.md",
     "E. Networking/4. Networking Secure Protocols.md",
+    "E. Networking/7. NMAP The Basics.md",
+    "E. Networking/3. Networking Core Protocols.md",
     "E. Networking/2. Networking Essentials.md",
     "Untitled.base",
     "E. Networking/1. Networking Concepts.md",
